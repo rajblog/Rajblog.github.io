@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-Hi, I am Raj Singh | A commerce student with greatly intrested in finance for now atleast,Lol 
+Hi, I am Raj Singh | A commerce student with majorly intrested in finance for now atleast. 
 
 ### More Information
 
