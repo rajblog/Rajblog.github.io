@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Third Shitty test
 bunch of text here
