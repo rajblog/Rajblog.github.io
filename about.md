@@ -2,14 +2,15 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+Hi, I am Raj Singh | A commerce student with greatly intrested in finance for now atleast,Lol 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Will add more later
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[bogus@gmail.com](mailto:bogus@gmail.com)
